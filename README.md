@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rehan Ali
-- 👀 I’m interested in most things comptuer science but right now I'm trying to build personal projects of my own.
-- 🌱 I’m currently a second year computer engineering major at UC Santa Cruz.
+- 👀 I’m interested in most things computer science but right now I'm trying to build personal projects of my own.
+- 🌱 I’m currently a third year computer engineering major at UC Santa Cruz.
 - 💞️ If you have any cool project ideas, hit me up!
 
 <!---
