@@ -1,10 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rali7196&show-icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rali7196&theme=radical)
 
 
 - 👋 Hi, I’m Rehan Ali
 - 👀 I’m interested in most things computer science but right now I'm trying to build personal projects of my own.
-- 🌱 I’m currently a third year computer engineering major at UC Santa Cruz.
+- 🌱 I’m currently working as a Software Engineer at Locusive.
 - 💞️ If you have any cool project ideas, hit me up!
 
 <!---
